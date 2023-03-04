@@ -8,9 +8,8 @@
             <value value="adb-35bfd898-0ppZ6w._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <name value="ONEPLUS A6000" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
