@@ -23,6 +23,16 @@
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="35bfd898" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
