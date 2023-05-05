@@ -12,6 +12,17 @@
         <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-35bfd898-33lcJy._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="ONEPLUS A6003" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
