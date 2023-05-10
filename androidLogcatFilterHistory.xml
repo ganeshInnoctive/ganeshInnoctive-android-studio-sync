@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine denied" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine denied" />
+        <option value="package:mine permission" />
         <option value="package:mine " />
         <option value="package:mine confi" />
         <option value="package:mine" />
