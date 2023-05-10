@@ -5,10 +5,10 @@
         <key>
           <Key>
             <type value="DOMAIN_NAME" />
-            <value value="adb-27151JEGR20591-2BpsYp._adb-tls-connect._tcp." />
+            <value value="adb-35bfd898-33lcJy._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <name value="Google Pixel 6a" />
+        <name value="ONEPLUS A6003" />
         <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
@@ -16,10 +16,10 @@
         <key>
           <Key>
             <type value="DOMAIN_NAME" />
-            <value value="adb-35bfd898-33lcJy._adb-tls-connect._tcp." />
+            <value value="adb-27151JEGR20591-2BpsYp._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <name value="ONEPLUS A6003" />
+        <name value="Google Pixel 6a" />
         <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
