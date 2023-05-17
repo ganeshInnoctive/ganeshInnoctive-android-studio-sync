@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine addVehicleLoading" />
         <option value="package:mine" />
         <option value="package:mine granted" />
         <option value="package:mine denied" />
         <option value="package:mine permission" />
-        <option value="package:mine " />
         <option value="package:mine confi" />
       </list>
     </option>
