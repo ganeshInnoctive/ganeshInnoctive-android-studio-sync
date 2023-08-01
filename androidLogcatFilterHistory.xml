@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:com.innoctive.cargofl.eas " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.innoctive.cargofl.eas " />
         <option value="package:mine " />
         <option value="package:mine addVehicleLoading" />
         <option value="package:mine" />
